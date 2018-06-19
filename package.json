@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-test",
+  "version": "1.0.0",
+  "description": "VuePress Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaboratoryVue/vuepress-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaboratoryVue/vuepress-test/issues"
+  },
+  "homepage": "https://github.com/LaboratoryVue/vuepress-test#readme",
+  "devDependencies": {
+    "vuepress": "^0.10.1"
+  }
+}
